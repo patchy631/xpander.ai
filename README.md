@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="images/Purple%20Logo%20White%20text.png">
     <img
       src="images/Purple%20Logo%20Black%20Text.png"
-      style="max-width: 100%; height: auto; width: auto; max-height: 170px;"
+      style="height:80px; width:auto;"
       alt="xpander.ai Logo"
     >
   </picture>
@@ -16,6 +16,9 @@
   </h3>
 </div>
 
+-----
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div align="center">
 <hr/>
